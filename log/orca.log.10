@@ -1,0 +1,882 @@
+2017-01-23 06:35:11 [633] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 06:35:11 [633] INFO: Checking disk space...
+2017-01-23 06:35:11 [633] INFO: Disk utilization 52%.
+2017-01-23 06:35:11 [633] INFO: Delaying 1 minute(s)...
+2017-01-23 06:35:10 [620] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 06:35:10 [620] INFO: Checking disk space...
+2017-01-23 06:35:10 [620] INFO: Disk utilization 52%.
+2017-01-23 06:35:10 [620] INFO: Delaying 1 minute(s)...
+2017-01-23 06:36:10 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:36:13 [620] ERROR: Network 192.168.171.5 is unreachable.
+
+2017-01-23 06:36:13 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:37:13 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:37:16 [620] ERROR: Network 192.168.171.5 is unreachable.
+
+2017-01-23 06:37:17 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:38:17 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:38:20 [620] ERROR: Network 192.168.171.5 is unreachable.
+
+2017-01-23 06:38:20 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:39:20 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:39:23 [620] ERROR: Network 192.168.171.5 is unreachable.
+
+2017-01-23 06:39:23 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:40:23 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:40:26 [620] ERROR: Network 192.168.171.5 is unreachable.
+
+2017-01-23 06:40:26 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:41:26 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:41:29 [620] ERROR: Network 192.168.171.5 is unreachable.
+
+2017-01-23 06:41:29 [620] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 06:41:42 [620] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 06:42:47 [623] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 06:42:47 [623] INFO: Checking disk space...
+2017-01-23 06:42:47 [623] INFO: Disk utilization 52%.
+2017-01-23 06:42:47 [623] INFO: Delaying 1 minute(s)...
+2017-01-23 06:43:47 [623] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:43:50 [623] ERROR: Network 192.168.171.5 is unreachable.
+
+2017-01-23 06:43:50 [623] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:44:50 [623] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:44:53 [623] ERROR: Network 192.168.171.5 is unreachable.
+
+2017-01-23 06:44:53 [623] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:42:47 [619] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 06:42:47 [619] INFO: Checking disk space...
+2017-01-23 06:42:47 [619] INFO: Disk utilization 52%.
+2017-01-23 06:42:47 [619] INFO: Delaying 1 minute(s)...
+2017-01-23 06:43:47 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:43:48 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:43:48 [619] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:43:48 [619] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:43:48 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:44:48 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:44:49 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:44:49 [619] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:44:49 [619] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:44:49 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:45:49 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:45:50 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:45:50 [619] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:45:50 [619] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:45:50 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:46:50 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:46:51 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:46:51 [619] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:46:51 [619] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:46:51 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:47:51 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:47:52 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:47:52 [619] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:47:52 [619] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:47:52 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:48:52 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:48:53 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:48:53 [619] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:48:53 [619] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:48:53 [619] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 06:49:06 [619] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 06:50:12 [621] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 06:50:12 [621] INFO: Checking disk space...
+2017-01-23 06:50:12 [621] INFO: Disk utilization 52%.
+2017-01-23 06:50:12 [621] INFO: Delaying 1 minute(s)...
+2017-01-23 06:51:12 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:51:13 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:51:14 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:51:14 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:51:14 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:52:14 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:52:15 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:52:15 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:52:15 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:52:15 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:53:15 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:53:16 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:53:16 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:53:16 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:53:16 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:54:16 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:54:17 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:54:17 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:54:17 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:54:17 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:55:17 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:55:18 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:55:18 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:55:18 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:55:18 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:56:18 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:56:19 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:56:19 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:56:19 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:56:19 [621] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 06:56:32 [621] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 06:57:37 [621] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 06:57:37 [621] INFO: Checking disk space...
+2017-01-23 06:57:37 [621] INFO: Disk utilization 52%.
+2017-01-23 06:57:37 [621] INFO: Delaying 1 minute(s)...
+2017-01-23 06:58:37 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:58:38 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:58:38 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:58:38 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:58:38 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 06:59:38 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 06:59:38 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 06:59:38 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 06:59:38 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 06:59:38 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:00:38 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:00:39 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:00:39 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 07:00:39 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 07:00:39 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:01:39 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:01:40 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:01:40 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 07:01:40 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 07:01:40 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:02:40 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:02:41 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:02:41 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 07:02:41 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 07:02:41 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:03:41 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:03:42 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:03:42 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 07:03:42 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 07:03:42 [621] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 07:03:55 [621] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 07:05:00 [621] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 07:05:00 [621] INFO: Checking disk space...
+2017-01-23 07:05:00 [621] INFO: Disk utilization 52%.
+2017-01-23 07:05:00 [621] INFO: Delaying 1 minute(s)...
+2017-01-23 07:06:00 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:06:01 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:06:01 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 07:06:01 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 07:06:01 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:07:01 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:07:02 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:07:02 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 07:07:02 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 07:07:02 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:08:02 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:08:03 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:08:03 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 07:08:03 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 07:08:03 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:09:03 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:09:04 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:09:04 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 07:09:04 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 07:09:04 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:10:04 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:10:05 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:10:05 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 07:10:05 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 07:10:05 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:11:05 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:11:06 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:11:06 [621] ERROR: HMI Error: Could not retrieve CSV.
+2017-01-23 07:11:06 [621] ERROR: Got: Server gives no specific Information to this Error code
+2017-01-23 07:11:06 [621] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 07:05:00 [619] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 07:05:00 [619] INFO: Checking disk space...
+2017-01-23 07:05:00 [619] INFO: Disk utilization 52%.
+2017-01-23 07:05:00 [619] INFO: Delaying 1 minute(s)...
+2017-01-23 07:06:00 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:06:01 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:06:01 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 07:06:01 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:07:01 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:07:02 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:07:02 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 07:07:02 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:08:02 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:08:03 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:08:03 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 07:08:03 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:09:03 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:09:04 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:09:04 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 07:09:04 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:05:00 [620] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 07:05:00 [620] INFO: Checking disk space...
+2017-01-23 07:05:00 [620] INFO: Disk utilization 52%.
+2017-01-23 07:05:00 [620] INFO: Delaying 1 minute(s)...
+2017-01-23 07:06:00 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:06:01 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:06:01 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:06:01 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:07:01 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:07:02 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:07:02 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:07:02 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:08:02 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:08:02 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:08:02 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:08:02 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:09:02 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:09:03 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:09:03 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:09:03 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:10:03 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:10:03 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:10:04 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:10:04 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:11:04 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:11:04 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:11:04 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:11:04 [620] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 07:11:17 [620] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 07:12:22 [618] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 07:12:22 [618] INFO: Checking disk space...
+2017-01-23 07:12:22 [618] INFO: Disk utilization 52%.
+2017-01-23 07:12:22 [618] INFO: Delaying 1 minute(s)...
+2017-01-23 07:13:22 [618] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:13:22 [618] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:13:22 [618] ERROR: Error: Internet is unreachable.
+2017-01-23 07:13:22 [618] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:14:22 [618] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:14:23 [618] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:14:23 [618] ERROR: Error: Internet is unreachable.
+2017-01-23 07:14:23 [618] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:15:23 [618] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:15:23 [618] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:15:24 [618] ERROR: Error: Internet is unreachable.
+2017-01-23 07:15:24 [618] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:16:24 [618] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:16:24 [618] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:16:24 [618] ERROR: Error: Internet is unreachable.
+2017-01-23 07:16:24 [618] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:17:24 [618] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:17:25 [618] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:17:25 [618] ERROR: Error: Internet is unreachable.
+2017-01-23 07:17:25 [618] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:18:25 [618] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:18:25 [618] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:18:25 [618] ERROR: Error: Internet is unreachable.
+2017-01-23 07:18:25 [618] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 07:18:39 [618] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 07:19:44 [619] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 07:19:44 [619] INFO: Checking disk space...
+2017-01-23 07:19:44 [619] INFO: Disk utilization 52%.
+2017-01-23 07:19:44 [619] INFO: Delaying 1 minute(s)...
+2017-01-23 07:20:44 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:20:45 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:20:45 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 07:20:45 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:21:45 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:21:45 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:21:46 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 07:21:46 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:22:46 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:22:47 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:22:47 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 07:22:47 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:23:47 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:23:48 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:23:48 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 07:23:48 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:24:48 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:24:49 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:24:49 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 07:24:49 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:25:49 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:25:49 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:25:49 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 07:25:49 [619] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 07:26:02 [619] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 07:27:07 [621] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 07:27:07 [621] INFO: Checking disk space...
+2017-01-23 07:27:07 [621] INFO: Disk utilization 52%.
+2017-01-23 07:27:07 [621] INFO: Delaying 1 minute(s)...
+2017-01-23 07:28:07 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:28:08 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:28:09 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 07:28:09 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:29:09 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:29:09 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:29:09 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 07:29:09 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:30:09 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:30:10 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:30:10 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 07:30:10 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:31:10 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:31:10 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:31:10 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 07:31:10 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:32:10 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:32:11 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:32:11 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 07:32:11 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:33:11 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:33:11 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:33:12 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 07:33:12 [621] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 07:33:25 [621] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 07:34:30 [620] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 07:34:30 [620] INFO: Checking disk space...
+2017-01-23 07:34:30 [620] INFO: Disk utilization 52%.
+2017-01-23 07:34:30 [620] INFO: Delaying 1 minute(s)...
+2017-01-23 07:35:30 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:35:31 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:35:31 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:35:31 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:36:31 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:36:31 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:36:32 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:36:32 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:37:32 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:37:32 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:37:32 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:37:32 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:38:32 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:38:33 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:38:33 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:38:33 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:39:33 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:39:33 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:39:33 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:39:33 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:40:34 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:40:34 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:40:34 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:40:34 [620] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 07:40:47 [620] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 07:41:52 [622] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 07:41:52 [622] INFO: Checking disk space...
+2017-01-23 07:41:52 [622] INFO: Disk utilization 52%.
+2017-01-23 07:41:52 [622] INFO: Delaying 1 minute(s)...
+2017-01-23 07:42:52 [622] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:42:53 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:42:53 [622] ERROR: Error: Internet is unreachable.
+2017-01-23 07:42:53 [622] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:43:53 [622] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:43:54 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:43:54 [622] ERROR: Error: Internet is unreachable.
+2017-01-23 07:43:54 [622] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:44:54 [622] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:44:54 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:44:54 [622] ERROR: Error: Internet is unreachable.
+2017-01-23 07:44:54 [622] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:45:54 [622] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:45:55 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:45:55 [622] ERROR: Error: Internet is unreachable.
+2017-01-23 07:45:55 [622] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:46:55 [622] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:46:55 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:46:56 [622] ERROR: Error: Internet is unreachable.
+2017-01-23 07:46:56 [622] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:47:56 [622] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:47:56 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:47:56 [622] ERROR: Error: Internet is unreachable.
+2017-01-23 07:47:56 [622] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 07:48:09 [622] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 07:49:14 [623] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 07:49:14 [623] INFO: Checking disk space...
+2017-01-23 07:49:14 [623] INFO: Disk utilization 52%.
+2017-01-23 07:49:14 [623] INFO: Delaying 1 minute(s)...
+2017-01-23 07:50:14 [623] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:50:15 [623] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:50:15 [623] ERROR: Error: Internet is unreachable.
+2017-01-23 07:50:15 [623] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:51:15 [623] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:51:16 [623] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:51:16 [623] ERROR: Error: Internet is unreachable.
+2017-01-23 07:51:16 [623] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:52:16 [623] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:52:16 [623] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:52:16 [623] ERROR: Error: Internet is unreachable.
+2017-01-23 07:52:16 [623] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:53:16 [623] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:53:17 [623] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:53:17 [623] ERROR: Error: Internet is unreachable.
+2017-01-23 07:53:17 [623] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:54:17 [623] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:54:17 [623] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:54:18 [623] ERROR: Error: Internet is unreachable.
+2017-01-23 07:54:18 [623] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:55:18 [623] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:55:18 [623] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:55:18 [623] ERROR: Error: Internet is unreachable.
+2017-01-23 07:55:18 [623] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 07:55:31 [623] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 07:56:36 [620] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 07:56:36 [620] INFO: Checking disk space...
+2017-01-23 07:56:36 [620] INFO: Disk utilization 52%.
+2017-01-23 07:56:36 [620] INFO: Delaying 1 minute(s)...
+2017-01-23 07:57:36 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:57:37 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:57:37 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:57:37 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:58:37 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:58:37 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:58:38 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:58:38 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 07:59:38 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 07:59:38 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 07:59:38 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 07:59:38 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:00:38 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:00:39 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:00:39 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 08:00:39 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:01:39 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:01:39 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:01:39 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 08:01:39 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:02:39 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:02:40 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:02:40 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 08:02:40 [620] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 08:02:53 [620] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 08:03:58 [619] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 08:03:58 [619] INFO: Checking disk space...
+2017-01-23 08:03:58 [619] INFO: Disk utilization 52%.
+2017-01-23 08:03:58 [619] INFO: Delaying 1 minute(s)...
+2017-01-23 08:04:58 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:04:59 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:04:59 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 08:04:59 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:05:59 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:05:59 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:06:00 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 08:06:00 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:07:00 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:07:00 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:07:00 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 08:07:00 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:08:00 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:08:01 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:08:01 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 08:08:01 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:09:01 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:09:02 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:09:02 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 08:09:02 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:10:02 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:10:03 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:10:03 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 08:10:03 [619] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 08:10:17 [619] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 08:11:22 [621] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 08:11:22 [621] INFO: Checking disk space...
+2017-01-23 08:11:22 [621] INFO: Disk utilization 52%.
+2017-01-23 08:11:22 [621] INFO: Delaying 1 minute(s)...
+2017-01-23 08:12:22 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:12:22 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:12:22 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:12:22 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:13:23 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:13:24 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:13:24 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:13:24 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:14:24 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:14:24 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:14:24 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:14:24 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:15:24 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:15:25 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:15:25 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:15:25 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:16:25 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:16:25 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:16:26 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:16:26 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:17:26 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:17:26 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:17:26 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:17:26 [621] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 08:17:39 [621] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 08:18:44 [620] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 08:18:44 [620] INFO: Checking disk space...
+2017-01-23 08:18:44 [620] INFO: Disk utilization 52%.
+2017-01-23 08:18:44 [620] INFO: Delaying 1 minute(s)...
+2017-01-23 08:19:44 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:19:45 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:19:45 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 08:19:45 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:20:45 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:20:45 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:20:45 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 08:20:45 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:21:45 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:21:46 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:21:46 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 08:21:46 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:22:47 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:22:47 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:22:47 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 08:22:47 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:23:47 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:23:48 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:23:48 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 08:23:48 [620] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:24:48 [620] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:24:48 [620] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:24:48 [620] ERROR: Error: Internet is unreachable.
+2017-01-23 08:24:48 [620] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 08:25:01 [620] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 08:26:06 [621] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 08:26:06 [621] INFO: Checking disk space...
+2017-01-23 08:26:06 [621] INFO: Disk utilization 52%.
+2017-01-23 08:26:06 [621] INFO: Delaying 1 minute(s)...
+2017-01-23 08:27:06 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:27:07 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:27:07 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:27:07 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:28:07 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:28:08 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:28:08 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:28:08 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:29:08 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:29:08 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:29:08 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:29:08 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:30:08 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:30:09 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:30:09 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:30:09 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:31:09 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:31:09 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:31:10 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:31:10 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:32:10 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:32:10 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:32:10 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:32:10 [621] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 08:32:23 [621] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 08:33:28 [621] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 08:33:28 [621] INFO: Checking disk space...
+2017-01-23 08:33:28 [621] INFO: Disk utilization 52%.
+2017-01-23 08:33:28 [621] INFO: Delaying 1 minute(s)...
+2017-01-23 08:34:28 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:34:29 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:34:29 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:34:29 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:35:29 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:35:29 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:35:30 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:35:30 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:36:30 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:36:30 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:36:30 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:36:30 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:37:30 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:37:31 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:37:31 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:37:31 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:38:31 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:38:31 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:38:32 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:38:32 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:39:32 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:39:32 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:39:32 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:39:32 [621] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 08:39:45 [621] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 08:40:51 [630] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 08:40:51 [630] INFO: Checking disk space...
+2017-01-23 08:40:51 [630] INFO: Disk utilization 52%.
+2017-01-23 08:40:51 [630] INFO: Delaying 1 minute(s)...
+2017-01-23 08:41:51 [630] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:41:52 [630] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:41:52 [630] ERROR: Error: Internet is unreachable.
+2017-01-23 08:41:52 [630] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:42:52 [630] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:42:53 [630] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:42:53 [630] ERROR: Error: Internet is unreachable.
+2017-01-23 08:42:53 [630] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:43:53 [630] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:43:53 [630] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:43:53 [630] ERROR: Error: Internet is unreachable.
+2017-01-23 08:43:53 [630] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:44:53 [630] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:44:54 [630] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:44:54 [630] ERROR: Error: Internet is unreachable.
+2017-01-23 08:44:54 [630] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:45:54 [630] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:45:54 [630] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:45:55 [630] ERROR: Error: Internet is unreachable.
+2017-01-23 08:45:55 [630] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:46:55 [630] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:46:55 [630] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:46:55 [630] ERROR: Error: Internet is unreachable.
+2017-01-23 08:46:55 [630] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 08:47:08 [630] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 08:48:13 [621] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 08:48:13 [621] INFO: Checking disk space...
+2017-01-23 08:48:13 [621] INFO: Disk utilization 52%.
+2017-01-23 08:48:13 [621] INFO: Delaying 1 minute(s)...
+2017-01-23 08:49:13 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:49:14 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:49:14 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:49:14 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:50:14 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:50:15 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:50:15 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:50:15 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:51:15 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:51:15 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:51:15 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:51:15 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:52:15 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:52:16 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:52:16 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:52:16 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:53:16 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:53:16 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:53:17 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:53:17 [621] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:54:17 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:54:17 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:54:17 [621] ERROR: Error: Internet is unreachable.
+2017-01-23 08:54:17 [621] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 08:54:30 [621] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 08:55:35 [619] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 08:55:35 [619] INFO: Checking disk space...
+2017-01-23 08:55:35 [619] INFO: Disk utilization 52%.
+2017-01-23 08:55:35 [619] INFO: Delaying 1 minute(s)...
+2017-01-23 08:56:35 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:56:36 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:56:36 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 08:56:36 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:57:36 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:57:37 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:57:37 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 08:57:37 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:58:37 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:58:38 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:58:38 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 08:58:38 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:55:35 [619] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 08:55:35 [619] INFO: Checking disk space...
+2017-01-23 08:55:35 [619] INFO: Disk utilization 52%.
+2017-01-23 08:55:35 [619] INFO: Delaying 1 minute(s)...
+2017-01-23 08:56:35 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:56:36 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:56:36 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 08:56:36 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:57:36 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:57:36 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:57:37 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 08:57:37 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:58:37 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:58:37 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:58:37 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 08:58:37 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 08:59:37 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 08:59:38 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 08:59:38 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 08:59:38 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 09:00:38 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 09:00:38 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 09:00:38 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 09:00:38 [619] INFO: Next attempt in 1 minute(s)...
+
+2017-01-23 09:01:38 [619] INFO: Connecting to http://192.168.171.5
+2017-01-23 09:01:39 [619] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2017-01-23 09:01:39 [619] ERROR: Error: Internet is unreachable.
+2017-01-23 09:01:39 [619] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2017-01-23 09:01:52 [619] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2017-01-23 09:02:57 [621] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2017-01-23 09:02:57 [621] INFO: Checking disk space...
+2017-01-23 09:02:57 [621] INFO: Disk utilization 52%.
+2017-01-23 09:02:57 [621] INFO: Delaying 1 minute(s)...
+2017-01-23 09:03:57 [621] INFO: Connecting to http://192.168.171.5
+2017-01-23 09:03:58 [621] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv

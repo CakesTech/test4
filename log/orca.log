@@ -1,0 +1,107 @@
+2021-11-23 17:44:52 [635] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-23 17:44:52 [635] ERROR: Error: Internet is unreachable.
+2021-11-23 17:44:52 [635] INFO: Next attempt in 1 minute(s)...
+
+2021-11-23 17:45:52 [635] INFO: Connecting to http://192.168.171.5
+2021-11-23 17:45:53 [635] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-23 17:45:53 [635] ERROR: Error: Internet is unreachable.
+2021-11-23 17:45:53 [635] CRITICAL: Maximum error count exceeded.  Rebooting system now.
+2021-11-23 17:46:09 [635] CRITICAL: **** GOT KILL SIGNAL - PROGRAM TERMINATED ****
+2021-11-23 17:47:33 [628] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2021-11-23 17:47:33 [628] INFO: Checking disk space...
+2021-11-23 17:47:33 [628] INFO: Disk utilization 53%.
+2021-11-23 17:47:33 [628] INFO: Delaying 1 minute(s)...
+2021-11-23 17:48:33 [628] INFO: Connecting to http://192.168.171.5
+2021-11-23 17:48:33 [628] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-23 17:48:34 [628] INFO: Uploading ORCA_OPS_DATA_OGXX_R0732.csv to Azure share \orca
+2021-11-23 17:48:35 [628] ERROR: Azure Connection Error: Bad key or service not available.
+2021-11-23 17:48:35 [628] INFO: Next attempt in 1 minute(s)...
+
+2021-11-24 16:42:49 [628] INFO: Connecting to http://192.168.171.5
+2021-11-24 16:42:49 [628] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-24 16:42:50 [628] INFO: Uploading ORCA_OPS_DATA_OGXX_R0732.csv to Azure share \orca
+2021-11-24 16:42:52 [628] INFO: Done.
+2021-11-24 16:42:52 [628] INFO: Next attempt in 5 minute(s)...
+
+2021-11-24 16:47:52 [628] INFO: Connecting to http://192.168.171.5
+2021-11-24 16:47:52 [628] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-24 16:47:53 [628] INFO: Uploading ORCA_OPS_DATA_OGXX_R0732.csv to Azure share \orca
+2021-11-24 16:47:54 [628] INFO: Done.
+2021-11-24 16:47:54 [628] INFO: Next attempt in 5 minute(s)...
+
+2021-11-24 16:52:55 [628] INFO: Connecting to http://192.168.171.5
+2021-11-24 16:52:55 [628] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-24 16:52:56 [628] INFO: Uploading ORCA_OPS_DATA_OGXX_R0732.csv to Azure share \orca
+2021-11-24 16:52:58 [628] INFO: Done.
+2021-11-24 16:52:58 [628] INFO: Next attempt in 5 minute(s)...
+
+2021-11-24 16:57:58 [628] INFO: Connecting to http://192.168.171.5
+2021-11-24 16:57:58 [628] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-24 16:57:59 [628] INFO: Uploading ORCA_OPS_DATA_OGXX_R0732.csv to Azure share \orca
+2021-11-24 16:58:01 [628] INFO: Done.
+2021-11-24 16:58:01 [628] INFO: Next attempt in 5 minute(s)...
+
+2021-11-24 17:01:14 [622] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2021-11-24 17:01:14 [622] INFO: Checking disk space...
+2021-11-24 17:01:15 [622] INFO: Disk utilization 53%.
+2021-11-24 17:01:15 [622] INFO: Delaying 1 minute(s)...
+2021-11-24 17:02:15 [622] INFO: Connecting to http://192.168.171.5
+2021-11-24 17:02:16 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-24 17:02:16 [622] INFO: Uploading ORCA_OPS_DATA_OGXX_R0732.csv to Azure share \orca
+2021-11-24 17:02:18 [622] INFO: Done.
+2021-11-24 17:02:18 [622] INFO: Next attempt in 5 minute(s)...
+
+2021-11-24 17:07:18 [622] INFO: Connecting to http://192.168.171.5
+2021-11-24 17:07:19 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-24 17:07:19 [622] INFO: Uploading ORCA_OPS_DATA_OGXX_R0732.csv to Azure share \orca
+2021-11-24 17:07:21 [622] INFO: Done.
+2021-11-24 17:07:21 [622] INFO: Next attempt in 5 minute(s)...
+
+2021-11-24 17:12:21 [622] INFO: Connecting to http://192.168.171.5
+2021-11-24 17:12:22 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-24 17:12:22 [622] INFO: Uploading ORCA_OPS_DATA_OGXX_R0732.csv to Azure share \orca
+2021-11-24 17:12:24 [622] INFO: Done.
+2021-11-24 17:12:24 [622] INFO: Next attempt in 5 minute(s)...
+
+2021-11-24 17:17:24 [622] INFO: Connecting to http://192.168.171.5
+2021-11-24 17:17:25 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-24 17:17:25 [622] INFO: Uploading ORCA_OPS_DATA_OGXX_R0732.csv to Azure share \orca
+2021-11-24 17:17:27 [622] INFO: Done.
+2021-11-24 17:17:27 [622] INFO: Next attempt in 5 minute(s)...
+
+2021-11-24 17:22:27 [622] INFO: Connecting to http://192.168.171.5
+2021-11-24 17:22:28 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-24 17:22:29 [622] INFO: Uploading ORCA_OPS_DATA_OGXX_R0732.csv to Azure share \orca
+2021-11-24 17:22:31 [622] INFO: Done.
+2021-11-24 17:22:31 [622] INFO: Next attempt in 5 minute(s)...
+
+2021-11-24 17:27:31 [622] INFO: Connecting to http://192.168.171.5
+2021-11-24 17:27:31 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-24 17:27:32 [622] INFO: Uploading ORCA_OPS_DATA_OGXX_R0732.csv to Azure share \orca
+2021-11-24 17:27:33 [622] INFO: Done.
+2021-11-24 17:27:33 [622] INFO: Next attempt in 5 minute(s)...
+
+2021-11-24 17:32:33 [622] INFO: Connecting to http://192.168.171.5
+2021-11-24 17:32:34 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-24 17:32:34 [622] ERROR: Error: Internet is unreachable.
+2021-11-24 17:32:34 [622] INFO: Next attempt in 1 minute(s)...
+
+2021-11-25 12:12:29 [622] INFO: 
+
+**** PROGRAM START (VER 1.4) ****
+
+2021-11-25 12:12:30 [622] INFO: Checking disk space...
+2021-11-25 12:12:30 [622] INFO: Disk utilization 53%.
+2021-11-25 12:12:30 [622] INFO: Delaying 1 minute(s)...
+2021-11-25 12:13:30 [622] INFO: Connecting to http://192.168.171.5
+2021-11-25 12:13:31 [622] INFO: Fetching http://192.168.171.5/StorageCardSD/Logs/ORCA_OPS_DATA0.csv
+2021-11-25 12:13:31 [622] INFO: Uploading ORCA_OPS_DATA_OGXX_R0732.csv to Azure share \orca
+2021-11-25 12:13:33 [622] INFO: Done.
+2021-11-25 12:13:33 [622] INFO: Next attempt in 5 minute(s)...
+
